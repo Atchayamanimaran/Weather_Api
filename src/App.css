@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://cdn.pixabay.com/photo/2021/01/25/18/38/storm-5949243_1280.jpg");
+    color: black;
+    margin-top: 200px;
+}
